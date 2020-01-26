@@ -2,4 +2,4 @@
 Simple tic-tac-toe game written in javascript.
 
 Screenshot:
-![Alt text](zmiorkapic.PNG)
+![Alt text](tictactoe_screenshot.PNG)
