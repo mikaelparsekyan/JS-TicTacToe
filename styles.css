@@ -1,0 +1,28 @@
+@font-face{
+    font-family: 'Roboto';
+    src: url('roboto.ttf') format('truetype');
+}
+.containers {
+    width: 180px;
+    height: 180px;
+    margin: 1.5px;
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    background-color: #14BDAC;
+    align-items: center;
+    line-height: 172px;
+}
+#main_container{
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    font-family: Arial;
+}
+#heading_text {
+    margin-top: 25px;
+    font-size: 45px;
+    font-family: Roboto; 
+}
+body {
+    text-align: center;
+}
